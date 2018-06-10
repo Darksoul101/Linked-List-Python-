@@ -84,7 +84,7 @@ class Linked_List:
 			before_last = lastNode
 			lastNode = lastNode.next
 
-			
+# For Test Delete This Line If You Want			
 myList = Linked_List()
 
 my_list = Node("Yash")
@@ -108,3 +108,6 @@ myList.deleteLast_Node()
 myList.deleteFirst_Node()
 
 myList.Print_list()
+
+
+#Created By Yash
